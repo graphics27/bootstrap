@@ -1,0 +1,22 @@
+.design{
+    width: 30px;
+}
+main{
+    max-width: 870px;
+}
+
+    
+
+.player img{
+    width: 56px;
+}
+
+.me{
+    color: cornflowerblue;
+}
+.sd{
+    margin-left: 20px;
+}
+.ss{
+    margin-left: 50px;
+}
